@@ -1,0 +1,17 @@
+version: "3"
+services:
+  redis:
+    build: 
+      context: .
+    image: 
+      ${IMAGE_NAME}:${IMAGE_VERSION}
+    container_name:
+        redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - ${DATA_DIR}:c:\data
+
+#
+# EOF (2022/04/08)
+#

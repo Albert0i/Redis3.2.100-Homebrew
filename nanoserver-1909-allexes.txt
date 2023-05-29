@@ -1,0 +1,72 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B6BB-98CF
+
+ Directory of C:\Windows\System32
+
+03/19/2019  11:42 AM            26,112 ARP.EXE
+03/19/2019  11:42 AM            21,504 attrib.exe
+03/19/2019  11:42 AM            40,960 auditpol.exe
+05/05/2021  05:22 AM           961,024 autochk.exe
+05/05/2021  05:22 AM           481,592 bcdedit.exe
+05/05/2021  05:22 AM            64,512 CertEnrollCtrl.exe
+05/05/2021  05:22 AM           239,952 CExecSvc.exe
+03/19/2019  11:42 AM            25,088 chkdsk.exe
+05/05/2021  05:22 AM           280,064 cmd.exe
+05/05/2021  05:22 AM           886,784 conhost.exe
+05/05/2021  05:22 AM           225,616 convertvhd.exe
+03/19/2019  11:42 AM            17,808 csrss.exe
+05/05/2021  05:22 AM           421,376 curl.exe
+05/05/2021  05:22 AM            57,664 DeviceCensus.exe
+03/19/2019  11:42 AM            92,160 DiskSnapshot.exe
+03/19/2019  11:42 AM            21,304 dllhost.exe
+03/19/2019  11:42 AM            66,048 expand.exe
+03/19/2019  11:42 AM            35,328 findstr.exe
+03/19/2019  11:42 AM            15,872 finger.exe
+03/19/2019  11:42 AM            30,720 fltMC.exe
+03/19/2019  11:42 AM            14,336 HOSTNAME.EXE
+03/19/2019  11:42 AM            37,888 icacls.exe
+03/19/2019  11:42 AM            34,816 ipconfig.exe
+03/19/2019  11:42 AM            50,176 lodctr.exe
+05/05/2021  05:22 AM            57,880 lsass.exe
+03/19/2019  11:42 AM            18,432 mountvol.exe
+03/19/2019  11:42 AM            16,896 MRINFO.EXE
+05/05/2021  05:22 AM           103,424 MuiUnattend.exe
+03/19/2019  11:42 AM            57,856 net.exe
+05/05/2021  05:22 AM           176,128 net1.exe
+03/19/2019  11:42 AM            93,184 netsh.exe
+03/19/2019  11:42 AM            38,400 NETSTAT.EXE
+03/19/2019  11:42 AM            73,728 NIHOST.exe
+03/19/2019  11:42 AM           319,488 NSRC.exe
+05/05/2021  05:22 AM         9,925,440 ntoskrnl.exe
+05/05/2021  05:22 AM            12,288 pacjsworker.exe
+03/19/2019  11:42 AM            19,456 PATHPING.EXE
+03/19/2019  11:42 AM            21,504 PING.EXE
+03/19/2019  11:42 AM            46,592 rdrleakdiag.exe
+05/05/2021  05:22 AM            74,240 reg.exe
+03/19/2019  11:42 AM            24,064 regsvr32.exe
+03/19/2019  11:42 AM            24,576 ROUTE.EXE
+05/05/2021  05:22 AM            59,392 runexehelper.exe
+03/19/2019  11:42 AM            69,632 sc.exe
+05/05/2021  05:22 AM           227,328 schtasks.exe
+05/05/2021  05:22 AM           681,296 services.exe
+03/19/2019  11:42 AM            55,808 setx.exe
+05/05/2021  05:22 AM           147,696 smss.exe
+03/19/2019  11:42 AM            27,648 sort.exe
+03/19/2019  11:42 AM            53,744 svchost.exe
+05/05/2021  05:22 AM            50,688 tar.exe
+05/05/2021  05:22 AM            92,440 taskhostw.exe
+03/19/2019  11:42 AM            12,800 TCPSVCS.EXE
+03/19/2019  11:42 AM            17,920 TRACERT.EXE
+03/19/2019  11:42 AM            41,472 unlodctr.exe
+03/19/2019  11:42 AM            33,792 userinit.exe
+05/05/2021  05:22 AM           518,480 WerFault.exe
+05/05/2021  05:22 AM           165,856 WerFaultSecure.exe
+05/05/2021  05:22 AM           222,544 wermgr.exe
+05/05/2021  05:22 AM           294,400 wevtutil.exe
+05/05/2021  05:22 AM           398,728 wininit.exe
+05/05/2021  05:22 AM           343,552 wpr.exe
+03/19/2019  11:42 AM           156,744 WUDFCompanionHost.exe
+03/19/2019  11:42 AM           256,000 WUDFHost.exe
+03/19/2019  11:42 AM            47,616 xcopy.exe
+              65 File(s)     19,227,856 bytes
+               0 Dir(s)  21,298,225,152 bytes free

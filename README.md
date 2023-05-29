@@ -7,7 +7,6 @@ Create a .env file to store project settings:
 IMAGE_NAME=redis
 
 # image version
-#IMAGE_VERSION=3.2.100-nanoserver-1909
 IMAGE_VERSION=3.2.100-nanoserver-20H2
 
 # data directory

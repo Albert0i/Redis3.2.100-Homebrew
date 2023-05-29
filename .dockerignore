@@ -1,0 +1,10 @@
+Dockerfile
+Makefile
+.dockerignore 
+.git
+.gitignore
+docker-compose*
+conf
+*.zip
+*.mhtml
+.env
